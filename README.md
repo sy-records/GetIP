@@ -3,7 +3,7 @@
 版本:1.0  
 最后更新时间:2018/2/26 16:18  
 作者:[沈唁](https://qq52o.me)  
-作者博客:[https://https://qq52o.me](https://https://qq52o.me)  
+作者博客:[https://qq52o.me](https://https://qq52o.me)  
 作者地址:[https://qq52o.me/1814.html](https://qq52o.me/1814.html)  
 开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
 GitHub项目地址:[https://github.com/sy-records/GetIP](https://github.com/sy-records/GetIP)  
